@@ -1,1 +1,1 @@
-print ("about")
+print ("chao anh hieu dep trai ne")
